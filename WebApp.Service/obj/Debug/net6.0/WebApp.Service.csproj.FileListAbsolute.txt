@@ -1,0 +1,17 @@
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.deps.json
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Service.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Data.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Domain.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Data.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\bin\Debug\net6.0\WebApp.Domain.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.csproj.CopyComplete
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\refint\WebApp.Service.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\WebApp.Service.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Service\obj\Debug\net6.0\ref\WebApp.Service.dll

@@ -1,0 +1,17 @@
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Data.deps.json
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Data.runtimeconfig.json
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Data.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Data.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Domain.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\bin\Debug\net6.0\WebApp.Domain.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.csproj.CopyComplete
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\refint\WebApp.Data.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\WebApp.Data.genruntimeconfig.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Data\obj\Debug\net6.0\ref\WebApp.Data.dll

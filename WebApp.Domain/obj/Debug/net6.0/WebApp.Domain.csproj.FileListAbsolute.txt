@@ -1,0 +1,12 @@
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\bin\Debug\net6.0\WebApp.Domain.deps.json
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\bin\Debug\net6.0\WebApp.Domain.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\bin\Debug\net6.0\WebApp.Domain.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.csproj.AssemblyReference.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.AssemblyInfo.cs
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\refint\WebApp.Domain.dll
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\WebApp.Domain.pdb
+C:\Users\AXROR\Desktop\Dev\C#\WebApp\WebApp.Domain\obj\Debug\net6.0\ref\WebApp.Domain.dll
